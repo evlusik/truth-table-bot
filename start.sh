@@ -1,0 +1,1 @@
+python3 truth_table_bot.py
